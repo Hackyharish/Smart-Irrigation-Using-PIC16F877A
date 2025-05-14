@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 This project automates irrigation using a **PIC16F877A microcontroller**, **DHT11 temperature and humidity sensor**, and a **soil moisture sensor** to optimize water usage. The system activates irrigation only when necessary, preventing overwatering and conserving resources.
 
+## 🧭 Before You Start
+Before beginning this project, we used a **ZIF (Zero Insertion Force) development kit** equipped with a **20 MHz crystal oscillator**, into which the **PIC16F877A microcontroller** was inserted. The PIC16F877A we used had a **pre-installed bootloader**, allowing for easier programming via serial communication. 
+
+> 💡 **Note:** While the **PICkit 3** can also be used to program the PIC16F877A, using a microcontroller with a bootloader simplifies the upload process significantly and avoids several common issues.
+
 ## 🚀 Features
 - **Sensor-Based Control** – Uses DHT11 and soil moisture sensors to determine watering needs.
 - **Efficient Water Management** – Prevents water wastage and over-irrigation.
@@ -51,6 +56,11 @@ This project automates irrigation using a **PIC16F877A microcontroller**, **DHT1
 
 [![Watch the video](https://github.com/Hackyharish/Smart-Irrigation-Using-PIC16F877A/blob/main/Cover.png)](https://youtube.com/shorts/ZagB9urzt0Q?feature=share)
 [![Watch the video]()](https://youtube.com/shorts/ZagB9urzt0Q?feature=share)
+
+## 🧱 Challenges Encountered
+- **Programming via PICkit 3**: Although widely used, the application for PICkit 3 often suffers from bugs and inconsistent performance, making the upload process unreliable.
+- **MPLAB Configuration**: Setting up and using MPLAB for code upload was time-consuming and complex due to toolchain configuration hurdles.
+- **Recommended Solution**: Using a **PIC16F877A with a built-in bootloader** proved to be the most efficient approach, greatly simplifying the development workflow and minimizing setup errors.
 
 ## 🌱 Future Enhancements
 ```plaintext
