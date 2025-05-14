@@ -49,7 +49,8 @@ This project automates irrigation using a **PIC16F877A microcontroller**, **DHT1
 ```
 ## 🎥 Working Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/ZagB9urzt0Q?feature=share)
+[![Watch the video](https://github.com/Hackyharish/Smart-Irrigation-Using-PIC16F877A/blob/main/Cover.png)](https://youtube.com/shorts/ZagB9urzt0Q?feature=share)
+[![Watch the video]()](https://youtube.com/shorts/ZagB9urzt0Q?feature=share)
 
 ## 🌱 Future Enhancements
 ```plaintext
