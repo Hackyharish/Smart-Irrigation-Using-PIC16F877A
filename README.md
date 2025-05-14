@@ -47,7 +47,7 @@ Before beginning this project, we used a **ZIF (Zero Insertion Force) developmen
 ## 🔧 Setup & Usage
 ```plaintext
 1. Connect the sensors and components to the PIC16F877A as per the circuit diagram.
-2. Upload the provided source code to the microcontroller using Mplab.
+2. Upload the provided source code to the microcontroller using Mplab or Boot Loder.
 3. Also don't forget to add the header file lcd.h in headers section.
 4. Power the system and monitor sensor readings.
 5. The system will automatically activate irrigation based on soil moisture and temperature.
