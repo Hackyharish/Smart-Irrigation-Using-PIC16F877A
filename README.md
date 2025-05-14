@@ -47,6 +47,9 @@ This project automates irrigation using a **PIC16F877A microcontroller**, **DHT1
 4. Power the system and monitor sensor readings.
 5. The system will automatically activate irrigation based on soil moisture and temperature.
 ```
+## 🎥 Working Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/ZagB9urzt0Q?feature=share)
 
 ## 🌱 Future Enhancements
 ```plaintext
