@@ -1,5 +1,5 @@
 # Smart Irrigation System Using PIC16F877A
-
+![Status](https://img.shields.io/badge/Status-Done-brightgreen)
 ## 📌 Project Overview
 This project automates irrigation using a **PIC16F877A microcontroller**, **DHT11 temperature and humidity sensor**, and a **soil moisture sensor** to optimize water usage. The system activates irrigation only when necessary, preventing overwatering and conserving resources.
 
